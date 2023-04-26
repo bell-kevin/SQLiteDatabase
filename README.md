@@ -1,5 +1,12 @@
-# 
+# SQLite Database
 
+SQLite Is Public Domain
+
+https://www.sqlite.org/copyright.html
+
+#1: Download DB Browser for your system:
+
+https://sqlitebrowser.org/dl/
 
 == We're Using GitHub Under Protest ==
 
