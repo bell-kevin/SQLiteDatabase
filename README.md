@@ -8,7 +8,7 @@ Step #1: Download DB Browser for your system:
 
 https://sqlitebrowser.org/dl/
 
-Step #1A: Get WSDA_Music.db if you don't already have it
+Step #1A: Get WSDA_Music.db if you don't already have it:
 
 https://github.com/jarrettbruno/MissingMoneyMatters-SQL-/blob/7a77a983f79f460ca9e4678ec0db9188bea09706/WSDA_Music.db
 
