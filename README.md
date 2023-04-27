@@ -30,6 +30,8 @@ Step #4: Select the SDA_Music.db file from your downloads file
 
 ![p](https://github.com/bell-kevin/SQLiteDatabase/blob/main/Screenshot%20from%202023-04-26%2019-36-22.png)
 
+![p](https://github.com/bell-kevin/SQLiteDatabase/blob/main/Screenshot%20from%202023-04-26%2019-53-21.png)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
