@@ -1,5 +1,7 @@
 # SQLite Database
 
+WSDA Music (sample database)
+
 SQLite Is Public Domain
 
 https://www.sqlite.org/copyright.html
