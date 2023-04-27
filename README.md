@@ -22,7 +22,13 @@ https://github.com/jarrettbruno/MissingMoneyMatters-SQL-
 
 What can we learn from the data?
 
-Step #2
+Step #2: Open DB Browser for SQLite
+
+Step #3: Click on Open Database at the top of the screen
+
+Step #4: Select the SDA_Music.db file from your downloads file
+
+![p](https://github.com/bell-kevin/SQLiteDatabase/blob/main/Screenshot%20from%202023-04-26%2019-36-22.png)
 
 == We're Using GitHub Under Protest ==
 
