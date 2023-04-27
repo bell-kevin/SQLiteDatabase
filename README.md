@@ -4,9 +4,13 @@ SQLite Is Public Domain
 
 https://www.sqlite.org/copyright.html
 
-#1: Download DB Browser for your system:
+Step #1: Download DB Browser for your system:
 
 https://sqlitebrowser.org/dl/
+
+Step #1A: Get WSDA_Music.db if you don't already have it
+
+Step #2
 
 == We're Using GitHub Under Protest ==
 
