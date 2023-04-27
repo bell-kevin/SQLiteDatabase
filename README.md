@@ -18,6 +18,8 @@ https://github.com/jarrettbruno/MissingMoneyMatters-SQL-
 
 ![p](https://github.com/bell-kevin/SQLiteDatabase/blob/main/Screenshot%20from%202023-04-26%2018-15-22.png)
 
+What can we learn from the data?
+
 Step #2
 
 == We're Using GitHub Under Protest ==
