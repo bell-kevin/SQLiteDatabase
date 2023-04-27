@@ -14,6 +14,8 @@ https://github.com/jarrettbruno/MissingMoneyMatters-SQL-/blob/7a77a983f79f460ca9
 
 https://github.com/jarrettbruno/MissingMoneyMatters-SQL-
 
+![p](https://github.com/bell-kevin/SQLiteDatabase/blob/main/Screenshot%20from%202023-04-26%2018-15-22.png)
+
 Step #2
 
 == We're Using GitHub Under Protest ==
